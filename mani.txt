@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+money is everywhere
+=======
+money is nowhere
+>>>>>>> ameer
